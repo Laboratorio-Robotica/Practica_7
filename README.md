@@ -19,10 +19,10 @@ Los comando a aprender son los siguientes:
 
 El robot Epson debe realizar un dibujo designado.
 
-1.Escoger el dibujo a realizar.
-2.Configurar la matriz donde será dibujado.
-3.Programar utilizando la matriz y los nuevos comandos.
-4.Ejecutar la programación para que el robot realice la tarea asignada.
+1. Escoger el dibujo a realizar.
+2. Configurar la matriz donde será dibujado. 
+3. Programar utilizando la matriz y los nuevos comandos.
+4. Ejecutar la programación para que el robot realice la tarea asignada.
 
 De tal manera que el codigo desarrollado quedo de la siguiente manera:
 
