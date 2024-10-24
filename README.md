@@ -82,11 +82,13 @@ Para el desarrollo de la práctica, se seleccionó el dibujo de un fantasma del 
 
 por lo que se consigui el siguiente resultado:
 
+![WhatsApp Image 2024-10-24 at 1 51 17 PM](https://github.com/user-attachments/assets/e425b601-a1e4-42b7-9d42-0e0460a3b43a)
 
 
 
+En el siguiente video se muestra el proceso que se llevó a cabo para completar la tarea.
 
-   
 
+https://github.com/user-attachments/assets/c37ba19a-e8d0-4d73-96b3-6645f4bc512a
 
 
