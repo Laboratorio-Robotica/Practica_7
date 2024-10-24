@@ -84,11 +84,23 @@ por lo que se consigui el siguiente resultado:
 
 ![WhatsApp Image 2024-10-24 at 1 51 17 PM](https://github.com/user-attachments/assets/e425b601-a1e4-42b7-9d42-0e0460a3b43a)
 
-
-
 En el siguiente video se muestra el proceso que se llevó a cabo para completar la tarea.
 
+https://github.com/user-attachments/assets/0f6ea516-3a81-4a85-8389-ec3e777dda23
 
-https://github.com/user-attachments/assets/c37ba19a-e8d0-4d73-96b3-6645f4bc512a
+## Conclusiones:  
+### Francisco Javier Godinez Lopez:
+
+
+
+### Pablo Axel Silva Fuentes: 
+
+
+
+### Eduardo David Salas Ayala:
+
+
+## Referencias bibliográficas
+- Epson (2020). EPSON RC+ 7.0 Manual del usuario Administración y desarrollo de proyectos (Ver.7.3). https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide_spanish_(v73r2).pdf
 
 
