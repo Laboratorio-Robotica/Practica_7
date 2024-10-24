@@ -98,7 +98,7 @@ https://github.com/user-attachments/assets/0f6ea516-3a81-4a85-8389-ec3e777dda23
 
 
 ### Eduardo David Salas Ayala:
-
+a
 
 ## Referencias bibliográficas
 - Epson (2020). EPSON RC+ 7.0 Manual del usuario Administración y desarrollo de proyectos (Ver.7.3). https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide_spanish_(v73r2).pdf
