@@ -90,15 +90,15 @@ https://github.com/user-attachments/assets/0f6ea516-3a81-4a85-8389-ec3e777dda23
 
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
-
+La práctica realizada evidenció la importancia de las matrices como elemento clave en la programación avanzada de robots. Este enfoque nos permitió no solo afianzar conocimientos previos, sino también explorar nuevas posibilidades de optimización en procesos complejos. La integración de comandos adicionales para el manejo de matrices abre caminos hacia soluciones más versátiles y adaptables a los requerimientos específicos de cada tarea. A pesar de algunos desafíos iniciales en la comprensión de ciertos códigos, la tarea de realizar un dibujo facilitó el entendimiento del funcionamiento del robot Epson con matrices, permitiendo cumplir con éxito los objetivos planteados en la práctica.
 
 
 ### Pablo Axel Silva Fuentes: 
-
+El desarrollo de esta práctica permitió adquirir conocimientos valiosos, especialmente sobre la implementación de matrices en la programación robótica. La incorporación de matrices amplía las opciones para resolver tareas asignadas y complementa el dominio de comandos previamente aprendidos. Los nuevos comandos empleados ayudan a optimizar las soluciones de acuerdo con los requisitos específicos. Aunque no surgieron obstáculos mayores, se presentaron algunas dificultades para comprender ciertos comandos nuevos. No obstante, la creación de un dibujo fue de gran ayuda para entender cómo el robot Epson maneja las matrices, logrando cumplir satisfactoriamente con el objetivo inicial de la práctica.
 
 
 ### Eduardo David Salas Ayala:
-a
+El desarrollo de esta práctica nos permitió adquirir nuevos conocimientos, en particular sobre el uso de matrices. La aplicación de matrices facilita diversas soluciones en las tareas asignadas y complementa el uso de comandos aprendidos en prácticas anteriores. Los nuevos comandos nos permiten optimizar soluciones según los requerimientos específicos. Durante la práctica no se presentaron obstáculos adversos, aunque hubo pequeñas dificultades al comprender algunos comandos nuevos. Sin embargo, el diseño de un dibujo ayudó a entender cómo el robot Epson trabaja con matrices, logrando así cumplir satisfactoriamente con el objetivo incial de la práctica.
 
 ## Referencias bibliográficas
 - Epson (2020). EPSON RC+ 7.0 Manual del usuario Administración y desarrollo de proyectos (Ver.7.3). https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide_spanish_(v73r2).pdf
