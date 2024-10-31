@@ -23,7 +23,7 @@ El robot Epson debe realizar un dibujo designado.
 2. Configurar la matriz donde será dibujado limitando las esquinas de dicha matriz. 
 3. Programar utilizando la matriz y los nuevos comandos.
 4. Programar cada uno de los puntos de la matriz donde sera dibujado.
-5. ajustar la altura de robot epson para ahorrar tiempo.
+5. Ajustar la altura de robot epson para ahorrar tiempo entre punto y punto del dibujo.
 6. Ejecutar la programación para que el robot realice la tarea asignada.
 
 De tal manera que el codigo desarrollado quedo de la siguiente manera:
